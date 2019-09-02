@@ -27,18 +27,6 @@ public class j009 {
         System.out.println("Crie o segundo número: ");
         b = leia.nextInt();
 
-        if (operacao = 1) {
-            resultado = mult(a, b);
-        }
-        else if (operacao = 2) {
-            resultado = div(a, b);
-        }
-        else if (operacao = 3) {
-            resultado = sub(a, b);
-        }
-        else {
-            resultado = soma(a, b);
-        }
     }
 }
 
